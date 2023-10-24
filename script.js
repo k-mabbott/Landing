@@ -1,6 +1,5 @@
 const topDiv = document.querySelector(".top");
 
-
 // const readout = document.querySelector("p");
 
 topDiv.addEventListener("mousemove", (e) => {
